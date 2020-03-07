@@ -25,11 +25,10 @@ JB :
 
 # presonal config
 domain: http://coolshell.info
-title: Lippi-浮生志
-description: Draw my life with code
-author: Lippi.OuYang
-email: ouyanglip@gmail.com
-github: LippiOuYang
+title: gone with the wind
+description: change life with bigdata
+author: LiZhongshan
+email: hadoop102@gmail.com;15555980831@163.com
 
 config:
   js_dir:
