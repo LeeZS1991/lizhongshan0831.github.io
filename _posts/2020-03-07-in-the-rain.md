@@ -1,8 +1,8 @@
 ---
 title: First Blog
-date: 2014-06-15 01:05:13 +0800
+date: 2020-03-07 18:05:13 +0800
 layout: post
-permalink: /blog/2014/06/15/in-the-rain.html
+permalink: /blog/2020/03/07/in-the-rain.html
 categories:
   - personal
 tags:
