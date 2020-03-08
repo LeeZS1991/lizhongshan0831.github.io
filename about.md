@@ -17,7 +17,7 @@ title: "关于：About"
  <!--a href="https://github.com/LippiOuYang" title="Github联系我"><img src="http://www.github.com/lizhongshan0831" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/-->
 🐧 925280685
  
-📫 [hadoop102@gmail.com](hadoop102@gmail.com) 
+📫 hadoop102@gmail.com
 </p>
 
 ## 关于本站：
